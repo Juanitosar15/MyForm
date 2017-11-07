@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">MyForm</string>
+    <string name="txt_Forms">Introduce tu nombre</string>
+    <string name="btnContinuar">CONTINUAR</string>
+
+    <string name="radiobutton1">Saludo</string>
+    <string name="radiobutton2">Despedida</string>
+    <string name="edad1">La edad debe ser </string>
+    <string name="edad2">años.</string>
+    <string name="btnCompartir">Compartir</string>
+
+</resources>
